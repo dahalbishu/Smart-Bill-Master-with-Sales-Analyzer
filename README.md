@@ -203,16 +203,17 @@ Feel free to explore and customize the codebase according to your requirements. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Demo Video
+
+## Demo Video
 You can find a demo video of the system ( https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL ).
 
-# Contributors
+## Contributors
 1. Apsara Shrestha
 2. Bishwambhar Dahal
 3. Sirjana Bhatta
 4. Sujana Acharya
 
-# Acknowledgments
+## Acknowledgments
 We would like to thank Institute of Engineering (IOE) for the inclusion of Minor
 Project on the syllabus for the course Bachelor in Electronics, Communication and
 Information Engineering.
