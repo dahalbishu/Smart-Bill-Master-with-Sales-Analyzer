@@ -1,0 +1,5 @@
+names:
+- object
+nc: 1
+train: detection-1/train/images
+val: detection-1/valid/images
