@@ -15,7 +15,7 @@ automatic billing system through collaboration between hardware and software.
 
 # Getting Started
 
-# Prerequisites
+## Prerequisites
 1. Raspberry Pi
 2. Motor Driver – L298N
 3. DC Motor
@@ -53,7 +53,7 @@ automatic billing system through collaboration between hardware and software.
 - OUT4 is connected to the negative terminal of the LED bulb.
 
 
-# Webcam Connection:
+## Webcam Connection:
 - Connect the webcam to one of the USB ports on the Raspberry Pi.
 
 Ensure that the webcam is recognized by the Raspberry Pi and is accessible for video capture in the `main.py` script.
@@ -85,10 +85,10 @@ To enable the Raspberry Pi to access a remote database hosted on a laptop, the f
 These steps allow the Raspberry Pi to establish a remote connection to the database hosted on the laptop. Ensure that the firewall settings on the laptop allow incoming connections on the MySQL port (default is 3306) for successful communication.
 
 
-# Database Setup
+## Database Setup
 Run the provided SQL script ourshoppingcenter.sql to create the necessary database.
 
-# Software Dependencies
+## Software Dependencies
 Install required Python libraries:
 pyzbar
 opencv-python
@@ -98,19 +98,19 @@ tkinter
 num2words
 and other some libraries
 
-# Hardware Connection
+## Hardware Connection
 Connect Raspberry Pi with the motor driver, DC motor, piezo buzzer, webcam, and touch sensor in the proper configuration.
 
-# Running the System
+## Running the System
 Open a Python IDE on the Raspberry Pi.
 Run main.py to start the system.
 
-# Running Sales Analysis
+## Running Sales Analysis
 To analyze sales data, use the `salesanalysis_final.py` script. This script processes the recorded sales and profit data stored in the database, providing insightful graphical analysis.
 
 
 
-# Features
+## Features
 Automatic Billing: The system automates the billing process through the conveyor belt, touch button, and QR code scanning.
 
 Digital Screen Display: The bill with product details and prices is displayed on a digital screen.
@@ -125,7 +125,7 @@ Object Detection: Object detection algorithms ensure all QR codes are scanned ac
 
 Real-time Billing: The collaboration between hardware and software components enables a real-time billing system.
 
-# Troubleshooting
+## Troubleshooting
 In case of issues, check the hardware connections and ensure all dependencies are installed.
 
 
@@ -195,6 +195,7 @@ For predicting on videos using the trained model, use the following command:
 
    ```bash
    python predict.py model='best.pt' source='vid.mp4'
+   ```
 
 Replace 'best.pt' with the path to your trained model weights file and 'vid.mp4' with the path to the input video file.
 
@@ -202,7 +203,7 @@ Feel free to explore and customize the codebase according to your requirements. 
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Demo Video
 You can find a demo video of the system ( https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL ).
