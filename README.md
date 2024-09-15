@@ -173,7 +173,7 @@ Organize the dataset as follows:
     cd ./YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect
     ```
 
-- Download the 'detection-1' folder from the Google Drive link.
+- Download the 'detection-1' folder from the provided link.
 
 - Place the downloaded 'detection-1' folder into the following directory.
 
