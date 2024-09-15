@@ -115,7 +115,7 @@ Automatic Billing: The system automates the billing process through the conveyor
 
 Digital Screen Display: The bill with product details and prices is displayed on a digital screen.
 
-Expiry Date Alerts: Users receive alerts when a product\'s expiry date has passed.
+Expiry Date Alerts: Users receive alerts when a product’s expiry date has passed.
 
 Sales Data Analysis: Sales and profit data are recorded in the database, and graphical analysis can be viewed through plotted graphs.
 
@@ -163,7 +163,7 @@ To set up the environment, follow these steps:
 
 ## Dataset
 
-Download the dataset from the provided [YOLOv8-DeepSORT Dataset Google Drive link]( https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL ).
+Download the dataset from the provided [here](https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL).
 
 Organize the dataset as follows:
 
@@ -189,6 +189,20 @@ To train the YOLOv8 model for object detection, follow these steps:
 
    Adjust the parameters as needed for your specific use case.
 
+## Model Performance
+The model achieved the following performance on the validation set:
+
+| Metric        | Value  |
+|---------------|--------|
+| Precision     | 0.973  |
+| Recall        | 0.972  |
+| mAP@50        | 0.99   |
+| mAP@50-95     | 0.873  |
+
+## Download Model Weights
+
+You can download the pre-trained model weights from [here](https://drive.google.com/drive/folders/1a0R1WCcFqSIqC0mbEcDaUJeKTJefsi9T?usp=drive_link)
+
 ## Prediction
 
 For predicting on videos using the trained model, use the following command:
@@ -206,7 +220,7 @@ Feel free to explore and customize the codebase according to your requirements. 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 # Demo Video
-You can find a demo video of the system ( https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL ).
+You can find a demo video of the system [here](https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL).
 
 # Contributors
 1. Apsara Shrestha
