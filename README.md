@@ -115,7 +115,7 @@ Automatic Billing: The system automates the billing process through the conveyor
 
 Digital Screen Display: The bill with product details and prices is displayed on a digital screen.
 
-Expiry Date Alerts: Users receive alerts when a product's expiry date has passed.
+Expiry Date Alerts: Users receive alerts when a product\'s expiry date has passed.
 
 Sales Data Analysis: Sales and profit data are recorded in the database, and graphical analysis can be viewed through plotted graphs.
 
