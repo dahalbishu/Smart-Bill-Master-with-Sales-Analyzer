@@ -220,7 +220,7 @@ Feel free to explore and customize the codebase according to your requirements. 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 # Demo Video
-You can find a demo video of the system [here](https://drive.google.com/drive/folders/1zYtoQVUe5BzWOrYn7ZpevUNd-alyM4oL).
+You can find a demo video of the system [here](https://drive.google.com/file/d/1Nx5U0XAAnP2LRwvy6ZQsLpdIsvvsCjZC/view?usp=drive_link).
 
 # Contributors
 1. Apsara Shrestha
