@@ -158,7 +158,7 @@ To set up the environment, follow these steps:
 4. Install the required dependencies:
 
     ```bash
-    pip install -e '.[dev]'
+    pip install -e .
     ```
 
 ## Dataset
