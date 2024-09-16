@@ -157,7 +157,7 @@ To set up the environment, follow these steps:
 4. For GPU support (Optional): 
 
    ```bash
-         conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
+   conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
    ```
 
 5. Install the required dependencies:
