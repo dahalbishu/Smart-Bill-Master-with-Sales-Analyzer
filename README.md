@@ -154,8 +154,13 @@ To set up the environment, follow these steps:
     ```bash
     cd path/to/YOLOv8-DeepSORT-Object-Tracking
     ```
+4. (Optional) For GPU support 
 
-4. Install the required dependencies:
+   ```bash
+         conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
+   ```
+
+5. Install the required dependencies:
 
     ```bash
     pip install -e .
