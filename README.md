@@ -170,7 +170,7 @@ Organize the dataset as follows:
 - Change to the YOLOv8 detection directory:
 
     ```bash
-    cd ./YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect
+    cd ./ultralytics/yolo/v8/detect
     ```
 
 - Download the 'detection-1' folder from the provided link.
