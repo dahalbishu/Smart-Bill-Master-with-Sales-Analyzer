@@ -228,10 +228,11 @@ Feel free to explore and customize the codebase according to your requirements. 
 You can find a demo video of the system [here](https://drive.google.com/file/d/1Nx5U0XAAnP2LRwvy6ZQsLpdIsvvsCjZC/view?usp=drive_link).
 
 # Contributors
-1. Apsara Shrestha
-2. Bishwambhar Dahal
-3. Sirjana Bhatta
-4. Sujana Acharya
+1. Apsara Shrestha *
+2. Bishwambhar Dahal *
+3. Sirjana Bhatta *
+4. Sujana Acharya *
+5. Er. Praches Acharya
 
 # Acknowledgments
 We would like to thank Institute of Engineering (IOE) for the inclusion of Minor
@@ -239,6 +240,5 @@ Project on the syllabus for the course Bachelor in Electronics, Communication an
 Information Engineering.
 Also, we would like to thank Department of Electronics and Computer Engineering,
 Thapathali Campus for providing us the guidance, and wonderful learning
-environment. We would also like to thank our supervisor Er. Praches Acharya for
-continuous guidance and encouragement
+environment.
 
