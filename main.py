@@ -26,7 +26,7 @@ conn = mysql.connector.connect(
 cursor = conn.cursor()
 
 #pin ------------- description
-ses = 37 #for Touch sensor-------------------
+ses = 37 
 in1= 3#for moter driver of moter
 in2 = 5#for moter driver of moter
 in3 = 11 # for moter driver for led light
