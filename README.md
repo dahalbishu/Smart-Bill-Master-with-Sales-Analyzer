@@ -240,9 +240,7 @@ You can find a demo video of the system [here](https://drive.google.com/file/d/1
 5. Praches Acharya
 
 # Acknowledgments
-We would like to thank Institute of Engineering (IOE) for the inclusion of Minor
-Project on the syllabus for the course Bachelor in Electronics, Communication and
-Information Engineering.
+We would like to express our sincere gratitude to our supervisor, Er. Praches Acharya, for his invaluable guidance throughout this research. We also extend our heartfelt thanks to the Department of Electronics and Computer Engineering at Thapathali Campus for providing us with the resources and a conducive environment that greatly contributed to the success of this research.
 Also, we would like to thank Department of Electronics and Computer Engineering,
 Thapathali Campus for providing us the guidance, and wonderful learning
 environment.
