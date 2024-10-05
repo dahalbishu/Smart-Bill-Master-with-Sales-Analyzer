@@ -2,18 +2,21 @@
 This research has been published under the title *Automated Retail Billing: Streamlining Checkout with QR Codes and Object Tracking Using YOLOv8 and DeepSORT* in the **International Journal of Science, Engineering and Technology**, Volume 12, Issue 5. The publication can be accessed [here](https://www.ijset.in/wp-content/uploads/IJSET_V12_issue5_747.pdf), and the DOI is [10.61463/ijset.vol.12.issue5.253](https://doi.org/10.61463/ijset.vol.12.issue5.253).
 
 # Abstract
-Smart Bill Master with Sales Analyzer system has been developed to streamline the
-process of creating bills and recording data in a database. The system consists of a
-conveyor belt that moves when a touch button is pressed, multiple products with their
-own unique QR codes are placed on the moving platform. The QR codes are scanned
-using a camera and detected through image processing. The system shows the bill with
-the product’s name, product id, and price on a digital screen. The system also alerts
-users when a product's expiry date has passed. Data from the QR codes is recorded in
-the database for sales and profit analysis, which can be viewed through plotted graphs.
-Customers registered in the database receive a PDF of their bill via email. Object
-detection algorithms are used to ensure all QR codes are scanned, and YOLOv8 model
-with DeepSORT algorithm is used for object tracking. Thus, we obtain a real time,
-automatic billing system through collaboration between hardware and software.
+- In the contemporary retail landscape, long checkout queues and the issuance of expired products
+present significant challenges to operational efficiency. To address these issues and enhance the billing process,
+we propose an innovative solution that automates billing while effectively managing sales data. Our system
+features a conveyor belt mechanism activated by a touch sensor, where products, each with unique QR codes,
+are placed. A camera captures live video of the conveyor belt, enabling real-time detection and decoding of
+these QR codes, along with immediate alerts for any expired products identified. The system generates a
+comprehensive bill detailing product names, IDs, and prices, while securely storing scanned data in a database
+for in-depth sales and profit analysis, complemented by graphical visualizations. Registered customers receive a
+PDF copy of their bill via email through the Simple Mail Transfer Protocol (SMTP), enhancing their overall
+experience. By employing the You Only Look Once version 8 (YOLOv8) model alongside the Deep Simple Online
+and Realtime Tracking (DeepSORT) algorithm, the system ensures precise object tracking and accurate
+scanning of each product. The Raspberry Pi serves as the core component of the system, managing the
+integration of advanced hardware and software. This solution significantly improves the efficiency and
+accuracy of the billing process, offering a holistic approach to modern retail management.
+
 
 # Getting Started
 
