@@ -1,4 +1,6 @@
 # Smart Bill Master with Sales Analyzer System
+This research has been published under the title *Automated Retail Billing: Streamlining Checkout with QR Codes and Object Tracking Using YOLOv8 and DeepSORT* in the **International Journal of Science, Engineering and Technology**, Volume 12, Issue 5. The publication can be accessed [here](https://www.ijset.in/wp-content/uploads/IJSET_V12_issue5_747.pdf), and the DOI is [10.61463/ijset.vol.12.issue5.253](https://doi.org/10.61463/ijset.vol.12.issue5.253).
+
 # Abstract
 Smart Bill Master with Sales Analyzer system has been developed to streamline the
 process of creating bills and recording data in a database. The system consists of a
