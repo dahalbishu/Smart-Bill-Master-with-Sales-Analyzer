@@ -233,11 +233,11 @@ Feel free to explore and customize the codebase according to your requirements. 
 You can find a demo video of the system [here](https://drive.google.com/file/d/1Nx5U0XAAnP2LRwvy6ZQsLpdIsvvsCjZC/view?usp=drive_link).
 
 # Contributors
-1. Apsara Shrestha *
-2. Bishwambhar Dahal *
-3. Sirjana Bhatta *
-4. Sujana Acharya *
-5. Er. Praches Acharya
+1. Bishwambhar Dahal 
+2. Sirjana Bhatta
+3. Sujana Acharya
+4. Apsara Shrestha
+5. Praches Acharya
 
 # Acknowledgments
 We would like to thank Institute of Engineering (IOE) for the inclusion of Minor
